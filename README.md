@@ -8,8 +8,9 @@
 ### ***Меня зовут Станислав***
 #### ***Я начинающий фронтенд-разработчик***
 
-#
+<br>
 
+#
 ### ***Мои навыки программирования ( Skills and Tools )***
 
 #
@@ -59,7 +60,7 @@
 
 <img align="left" alt="JS" width="40" src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" />
 
-<img align="left" alt="JS" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/c6a88d017a90b71a98ec62fe829d7e93ec86b46a/icons/file_type_less.svg" />
+<img align="left" alt="JS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/less/less-plain-wordmark.svg" />
 
 <img align="left" alt="JS" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/c6a88d017a90b71a98ec62fe829d7e93ec86b46a/icons/file_type_typescript_official.svg" />
 
@@ -72,7 +73,7 @@
 ### ***Мои примеры работ / My works***
 <br>
 
-####  [***Travel***- сайт туристических услуг](https://stanislavkhurtov.github.io/practice-travel/home.html) 
+####  [***Travel***- сайт туристических услуг](https://stanislavkhurtov.github.io/Travel-ver.2/home.html) 
 
 <img src="./src/img/travel.jpg"/>
 
@@ -81,6 +82,12 @@
 #### [***Porten*** - сайт продажи aксессуаров](https://stanislavkhurtov.github.io/porten/home.html)
 
 <img src="./src/img/porten.jpg"/>
+
+<br>
+
+#### [***Aperture*** - сайт фотостудии](https://stanislavkhurtov.github.io/porten/home.html)
+
+<img src="./src/img/aperture.png"/>
 
 #
 
