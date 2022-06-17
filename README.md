@@ -77,7 +77,7 @@
 
 <br>
 
-#### [***Porten*** - сайт продажи aксессуаров](https://stanislavkhurtov.github.io/porten/home.html)
+#### [***Porten*** - сайт продажи aксессуаров](https://stanislavkhurtov.github.io/Porten/home.html)
 
 <img src="./src/img/porten.jpg"/>
 
