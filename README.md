@@ -8,8 +8,6 @@
 ### ***Меня зовут Станислав***
 #### ***Я начинающий фронтенд-разработчик***
 
-<br>
-
 #
 ### ***Мои навыки программирования ( Skills and Tools )***
 
@@ -85,7 +83,7 @@
 
 <br>
 
-#### [***Aperture*** - сайт фотостудии](https://stanislavkhurtov.github.io/porten/home.html)
+#### [***Aperture*** - сайт фотостудии](https://stanislavkhurtov.github.io/Aperture)
 
 <img src="./src/img/aperture.png"/>
 
