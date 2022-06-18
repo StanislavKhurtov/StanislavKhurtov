@@ -71,7 +71,7 @@
 ### ***Мои примеры работ / My works***
 <br>
 
-####  [***Travel***- сайт туристических услуг](https://stanislavkhurtov.github.io/Travel-ver.2/home.html) 
+####  [***Travel*** - сайт туристических услуг](https://stanislavkhurtov.github.io/Travel-ver.2) 
 
 <img src="./src/img/travel.jpg"/>
 
