@@ -3,13 +3,13 @@
 
 <br>
 
-# ___***Привет***___
+# ___***Hi,***___
 
-### ***Меня зовут Станислав***
-#### ***Я начинающий фронтенд-разработчик***
+### ***My name is Stanislav***
+#### ***I'am junior frontend developer***
 
 #
-### ***Мои навыки программирования ( Skills and Tools )***
+### ***Skills and Tools***
 
 #
 <img align="left" alt="HTML5" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -35,16 +35,16 @@
 <br>
 
 
-### **HTML5** - семантика, доступность, кроссплатформенность, надежность;
- ### **CSS3** - в основном использую связку Grid Layout && Flexbox, создаю анимации, создаваю адаптивную верстку при помощи медиа-выражений, использую БЭМ-методологию;
- ### **Sass(SCSS)** - использую миксины, циклы, условия и переменные;
- ### **Javascript** - (стандарты ES5, ES6; знаю базовые структуры данных JS, умею работать с асинхронными функциями, есть навыки работы с DOM);
- ### **Figma, Adobe Photoshop, Pixso** - верстаю по представленному макету;
- ### **React** -  изучаю основы;
+### **HTML5** - semantics, accessibility, cross-platform, reliability;
+ ### **CSS3** - I use a bunch of Grid Layout && Flexbox, create animations, create adaptive layout using media expressions, use BEM methodology;
+ ### **Sass(SCSS)** - I use mixins, cycles, conditions and variables;
+ ### **Javascript** - (ES5, ES6 standards; I know basic JS data structures, I know how to work with asynchronous functions, I have DOM skills);
+ ### **Figma, Adobe Photoshop, Pixso** - I make up according to the presented layout;
+ ### **React** - learning the basics;
 
 #
 
-### ***Осваиваю программные навыки ( Learning )***
+### ***Learning***
 
 #
 
@@ -68,7 +68,7 @@
 
 #
 
-### ***Мои примеры работ / My works***
+### ***Project Case***
 <br>
 
 ####  [***Portfolio*** ](https://stanislavkhurtov.github.io/SHFrontend/) 
@@ -77,25 +77,25 @@
 
 <br>
 
-####  [***Travel*** - сайт туристических услуг](https://stanislavkhurtov.github.io/Travel-ver.2) 
+####  [***Travel*** - website of tourist services](https://stanislavkhurtov.github.io/Travel-ver.2) 
 
 <img src="./src/img/travel.jpg"/>
 
 <br>
 
-#### [***Porten*** - сайт продажи aксессуаров](https://stanislavkhurtov.github.io/Porten/home.html)
+#### [***Porten*** - accessories sale website](https://stanislavkhurtov.github.io/Porten/home.html)
 
 <img src="./src/img/porten.jpg"/>
 
 <br>
 
-#### [***Aperture*** - сайт фотостудии](https://stanislavkhurtov.github.io/Aperture)
+#### [***Aperture*** - photo studio website](https://stanislavkhurtov.github.io/Aperture)
 
 <img src="./src/img/aperture.png"/>
 
 #
 
-### ***Статистика / Statistics***
+### ***Statistics***
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StanislavKhurtov&theme=dark)](https://git.io/streak-stats)
@@ -106,16 +106,16 @@
 <br>
 #
 
-### ***Мои контакты / You can contact me***
+### ***Contact me***
 <br>
 
 <img align="left" alt="JS" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />[***__Telegram***](https://t.me/+375257687065/)
 <br>
 
-<img align="left" alt="JS" width="20" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1654183406~hmac=34cd04f4b36034078d945b5080b1c00a" />[***__Linkedin***](https://www.linkedin.com/in/%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D1%81%D0%BB%D0%B0%D0%B2-%D1%85%D1%83%D1%80%D1%82%D0%BE%D0%B2-4b1002228/)
+<img align="left" alt="JS" width="20" src="https://www.svgrepo.com/show/448234/linkedin.svg" />[***__Linkedin***](https://www.linkedin.com/in/stanislav-hurtov-4b1002228/)
 <br>
 
-<img align="left" alt="JS" width="20" src="https://cdn-icons.flaticon.com/png/128/6052/premium/6052250.png?token=exp=1654182884~hmac=0fb30ab773de05a01fdd1c1a99ff8703" /><a href="mailto:skhurtov@yandex.ru">***__skhurtov@yandex.by***</a>
+<img align="left" alt="JS" width="20" src="https://cdn-icons-png.flaticon.com/128/552/552486.png" /><a href="mailto:skhurtov@yandex.ru">***__skhurtov@yandex.by***</a>
 
 
 
