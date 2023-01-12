@@ -101,7 +101,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StanislavKhurtov&theme=dark)](https://git.io/streak-stats)
 
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanislavKhurtov)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=StanislavKhurtov&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 #
 
