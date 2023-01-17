@@ -1,9 +1,18 @@
 <br>
 
-# ___***Hi,***___
+# ___***Hi, My name is Stanislav!***___
 
-### ***My name is Stanislav***
-#### ***I'am junior frontend developer***
+#### ***I'am frontend developer***
+#
+### ***About me***
+
+#### I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences. I am a real hard worker and constantly experimenting with new techniques and tools.
+My layouts work on any device, big or small. Websites don't have to be static, I like to make pages come alive.
+If you think we should co-create something awesome together, let me know!
+Currently open to new opportunities and looking for a team, I look forward to sharing my skills. I am available to work remotely on a freelance basis.
+
+
+
 
 #
 ### ***Skills and Tools***
@@ -32,12 +41,12 @@
 <br>
 
 
-### **HTML5** - semantics, accessibility, cross-platform, reliability;
- ### **CSS3** - I use a bunch of Grid Layout && Flexbox, create animations, create adaptive layout using media expressions, use BEM methodology;
- ### **Sass(SCSS)** - I use mixins, cycles, conditions and variables;
- ### **Javascript** - (ES5, ES6 standards; I know basic JS data structures, I know how to work with asynchronous functions, I have DOM skills);
- ### **Figma, Adobe Photoshop, Pixso** - I make up according to the presented layout;
- ### **React** - learning the basics;
+#### **HTML5** - semantics, accessibility, cross-platform, reliability;
+ #### **CSS3** - I use a bunch of Grid Layout && Flexbox, create animations, create adaptive layout using media expressions, use BEM methodology, PerfectPixel;
+ #### **Sass(SCSS)** - I use mixins, cycles, conditions and variables;
+ #### **Javascript** - (ES6 standards; I know basic JS data structures, I know how to work with asynchronous functions, I have DOM skills);
+ #### **Figma, Adobe Photoshop, Pixso** - I make up according to the presented layout;
+ #### **React** - learning the basics;
 
 #
 
@@ -99,9 +108,6 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanislavKhurtov&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-#
 
 ### ***Contact me***
 <br>
