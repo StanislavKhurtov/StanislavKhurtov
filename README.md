@@ -114,6 +114,10 @@ Currently open to new opportunities and looking for a team, I look forward to sh
 
 <br>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=StanislavKhurtov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
 
 ### ***Contact me***
 <br>
