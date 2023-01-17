@@ -1,6 +1,3 @@
-<img src="./src/img/logo.png"/>
-
-
 <br>
 
 # ___***Hi,***___
