@@ -114,11 +114,6 @@ Currently open to new opportunities and looking for a team, I look forward to sh
 
 <br>
 
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=StanislavKhurtov&layout=compact&theme=vision-friendly-dark" />
-   
-
-<br>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=StanislavKhurtov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
