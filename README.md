@@ -1,7 +1,7 @@
 
 # ___***Hi, My name is Stanislav!***___
 
-#### ***I'am frontend developer***
+### ***I'am frontend developer***
 #
 ### ***About me***
 
