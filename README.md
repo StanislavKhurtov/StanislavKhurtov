@@ -80,7 +80,7 @@ Currently open to new opportunities and looking for a team, I look forward to sh
 ### ***Project Case***
 <br>
 
-####  [***Portfolio*** ](https://stanislavkhurtov.github.io/SHFrontend/) 
+####  [***Portfolio*** ](https://main--resplendent-paprenjak-7743d6.netlify.app/) 
 
 <img src="./src/img/portfolio.png"/>
 
