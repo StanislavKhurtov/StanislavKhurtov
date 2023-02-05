@@ -2,7 +2,6 @@
 
 <br>
 
-
 # ___***Hi, My name is Stanislav!***___
 
 ### ***I'am frontend developer***
