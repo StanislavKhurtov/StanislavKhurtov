@@ -104,6 +104,15 @@ Currently open to new opportunities and looking for a team, I look forward to sh
 
 #
 
+### ***Сertificate***
+<br>
+
+<p float="left">
+ <img width="600" src="./src/img/sertificate.png"/>
+ <img width="600" src="./src/img/sertificateFls.png"/> 
+</p>
+
+#
 
 ### ***Statistics***
 <br>
