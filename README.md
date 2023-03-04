@@ -107,7 +107,8 @@ Currently open to new opportunities and looking for a team, I look forward to sh
 ### ***Сertificate***
 <br>
 
-<p float="left" align:"center"  width="550" >
+<p float="left" align:"center"  width="550" > 
+ <img width="400" src="./src/img/3y73280o-1.png"/> 
 <img width="400" src="./src/img/sertificateFls.png"/> 
  <img width="400" src="./src/img/js-certificate.png"/> 
  <img width="400" src="./src/img/sertificate.png"/> 
