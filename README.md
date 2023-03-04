@@ -110,8 +110,8 @@ Currently open to new opportunities and looking for a team, I look forward to sh
 <p float="left" align:"center"  width="550" > 
  <img width="400" src="./src/img/3y73280o-1.png"/> 
 <img width="400" src="./src/img/sertificateFls.png"/> 
- <img width="400" src="./src/img/js-certificate.png"/> 
- <img width="400" src="./src/img/sertificate.png"/> 
+ <img width="400" src="./src/img/jssertificate.png"/> 
+ <img width="400" src="./src/img/htmlsertificate.png"/> 
 </p>
 
 #
