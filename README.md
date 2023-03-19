@@ -71,11 +71,6 @@ Currently open to new opportunities and looking for a team, I look forward to sh
 
 #
 
-### ***Codewars***
-
-![codewars](https://www.codewars.com/users/rsschool_c66a9e124df662f5/badges/large)
-
-#
 
 ### ***Project Case***
 <br>
