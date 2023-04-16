@@ -1,6 +1,6 @@
 <img src="./src/img/logoTop.png"/>
 
-<br>
+
 
 # ___***Hi, My name is Stanislav!***___
 
