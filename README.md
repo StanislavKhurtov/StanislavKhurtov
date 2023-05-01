@@ -128,7 +128,7 @@ Currently open to new opportunities and looking for a team, I look forward to sh
 <img align="left" alt="JS" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />[***__Telegram***](https://t.me/+375257687065/)
 <br>
 
-<img align="left" alt="JS" width="20" src="https://www.svgrepo.com/show/448234/linkedin.svg" />[***__Linkedin***](https://www.linkedin.com/in/stanislav-hurtov-4b1002228/)
+<img align="left" alt="JS" width="20" src="https://www.svgrepo.com/show/448234/linkedin.svg" />[***__Linkedin***](https://www.linkedin.com/in/stanislav-khurtov-4b1002228/)
 <br>
 
 <img align="left" alt="JS" width="20" src="https://cdn-icons-png.flaticon.com/128/552/552486.png" /><a href="mailto:skhurtov@yandex.ru">***Say Hello***</a>
