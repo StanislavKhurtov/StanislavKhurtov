@@ -1,9 +1,9 @@
 <img src="./src/img/logoTop.png"/>
 
 
-# ___***Hi, My name is Stanislav!***___
+# ___**Hi, My name is Stanislav!**___
 
-### ***I'am frontend developer***
+### **Frontend developer**
 #
 ### ***About me***
 
