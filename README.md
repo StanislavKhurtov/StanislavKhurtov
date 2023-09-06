@@ -4,17 +4,6 @@
 
 ### **Frontend developer**
 #
-### ***About me***
-
-#### I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences. I am a real hard worker and constantly experimenting with new techniques and tools.
-My layouts work on any device, big or small. Websites don't have to be static, I like to make pages come alive.
-If you think we should co-create something awesome together, let me know!
-Currently open to new opportunities and looking for a team, I look forward to sharing my skills. I am available to work remotely on a freelance basis.
-
-
-
-
-#
 ### ***Skills and Tools***
 
 #
