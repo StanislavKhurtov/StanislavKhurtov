@@ -1,6 +1,6 @@
 <img src="./src/img/logoTop.png"/>
 
-# __**Hi, My name is Stanislav!**__
+__**Hi, My name is Stanislav!**__
 
 ### **Frontend developer**
 #
