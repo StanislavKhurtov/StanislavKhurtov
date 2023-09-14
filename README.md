@@ -4,7 +4,6 @@
 ## **Frontend developer**
 
 <hr>
-<hr>
 
 ### ***Skills and Tools***
 
