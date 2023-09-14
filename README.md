@@ -8,8 +8,6 @@
 
 ### ***Skills and Tools***
 
-<br>
-
 <hr>
 
 <img align="left" alt="JS" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/c6a88d017a90b71a98ec62fe829d7e93ec86b46a/icons/file_type_typescript_official.svg" />
