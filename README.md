@@ -5,6 +5,22 @@
 
 <hr>
 
+### ***About me***
+
+<hr>
+
+> #### I have extensive skills in developing web applications using ***React*** and ***TypeScript***. I have a deep understanding of the core principles and concepts of > React, such as components, state, component lifecycle, and state management. I'am also familiar with key libraries and tools widely used in the React ecosystem, such as ___React Router___, ___Redux___, and ___Axios___.
+
+ > #### My experience with React includes building scalable and reusable components, managing data using state and context, and interacting with external APIs. I also have experience working with React Hooks, which help simplify state management and improve component performance.
+
+ >#### I actively leverage TypeScript in my React projects to ensure type safety and enhance development. I am familiar with key TypeScript concepts, such as >data types, interfaces, generics, and decorators. Using TypeScript allows me >to catch errors during development, improve code autocompletion and >documentation, and enhance codebase understanding for effective teamwork.
+
+ >#### Additionally, I possess development skills in HTML5, CSS3, and Sass (SCSS). I prioritize semantic and accessible web pages, create responsive layouts using media queries, and follow the BEM methodology for styling organization. I am proficient in creating animations and utilizing modern CSS features, such as Grid Layout and Flexbox. Furthermore, I have experience working with design tools like Figma, Adobe Photoshop, and Pixso, enabling me to create visually appealing user interfaces based on provided designs.
+
+ >#### Overall, my skills in React and TypeScript enable me to develop modern, scalable, and maintainable web applications with enhanced reliability and performance. I continuously update my knowledge and adhere to best development practices to ensure high-quality work.
+
+<hr>
+
 ### ***Skills and Tools***
 
 <hr>
@@ -41,17 +57,6 @@
 <br>
 
 <hr>
-
-
-> #### I have extensive skills in developing web applications using ***React*** and ***TypeScript***. I have a deep understanding of the core principles and concepts of > React, such as components, state, component lifecycle, and state management. I'am also familiar with key libraries and tools widely used in the React ecosystem, such as ___React Router___, ___Redux___, and ___Axios___.
-
- > #### My experience with React includes building scalable and reusable components, managing data using state and context, and interacting with external APIs. I also have experience working with React Hooks, which help simplify state management and improve component performance.
-
- >#### I actively leverage TypeScript in my React projects to ensure type safety and enhance development. I am familiar with key TypeScript concepts, such as >data types, interfaces, generics, and decorators. Using TypeScript allows me >to catch errors during development, improve code autocompletion and >documentation, and enhance codebase understanding for effective teamwork.
-
- >#### Additionally, I possess development skills in HTML5, CSS3, and Sass (SCSS). I prioritize semantic and accessible web pages, create responsive layouts using media queries, and follow the BEM methodology for styling organization. I am proficient in creating animations and utilizing modern CSS features, such as Grid Layout and Flexbox. Furthermore, I have experience working with design tools like Figma, Adobe Photoshop, and Pixso, enabling me to create visually appealing user interfaces based on provided designs.
-
- >#### Overall, my skills in React and TypeScript enable me to develop modern, scalable, and maintainable web applications with enhanced reliability and performance. I continuously update my knowledge and adhere to best development practices to ensure high-quality work.
 
 #
 
