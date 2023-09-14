@@ -8,8 +8,6 @@
 
 ### ***Skills and Tools***
 
-<hr>
-
 <br>
 
 <hr>
