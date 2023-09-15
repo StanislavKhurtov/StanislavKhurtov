@@ -36,7 +36,6 @@
 <hr>
 
 <br>
-<br>
 
 <img align="left" alt="JS" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/c6a88d017a90b71a98ec62fe829d7e93ec86b46a/icons/file_type_typescript_official.svg" />
 
@@ -64,6 +63,8 @@
 <img align="left" alt="Figma" width="40" src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" />
 
 <img align="left" alt="Git" width="40" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" />
+
+<hr>
 
 <br>
 <br>
