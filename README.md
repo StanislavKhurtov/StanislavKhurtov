@@ -69,6 +69,8 @@
 
 <br>
 <br>
+<br>
+<br>
 
 - React / Redux / Redux Toolkit
 - JavaScript / TypeScript
