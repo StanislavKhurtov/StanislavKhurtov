@@ -1,4 +1,6 @@
+<div align="center">
 <img src="./src/img/logoTop.png" />
+</div>
 
 # **Hi, My name is Stanislav!**
 ## **Frontend developer**
