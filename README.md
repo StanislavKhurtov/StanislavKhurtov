@@ -74,10 +74,10 @@
 
 - React / Redux / Redux Toolkit
 - JavaScript / TypeScript
-- Axios/Rest API / Swagger
+- Axios / Rest API / Swagger
 - HTML / CSS / BEM
 - SASS / SCSS
-- Formik/React Hook Form
+- Formik / React Hook Form
 - Material UI / Ant Design / Styled Components
 - TDD / Unit test / Jest / Storybook
 - Git / GitHub / Gitlab
@@ -86,19 +86,6 @@
 
 <br>
 <br>
-
-### ***Languages:***
-
-<hr>
-
-<br>
-
-- Russian: Native.
-- English: Intermediate(B1)
-  
-<br>
-<br>
-
 
 ### ***Project Case***
 
