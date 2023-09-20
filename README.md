@@ -94,7 +94,12 @@
 
 
 ### [***Portfolio*** ](https://stanislavkhurtov.netlify.app/)
-<div align="right" width="100px">This project is a responsive design and animation portfolio created to showcase skills, projects and achievements. It is designed using modern technologies and approaches to provide an attractive and smooth user experience.</div>
+<div align="right" width="100px">
+    <div>This project is a responsive design and </div>
+     <div>animation portfolio created to showcase skills,</div>
+     <div>projects and achievements. It is designed using modern technologies</div>
+     <div>and approaches to provide an attractive and smooth user experience.</div>
+     </div>
 
 <br>
 
