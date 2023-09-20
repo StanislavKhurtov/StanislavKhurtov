@@ -83,6 +83,7 @@
 - Git / GitHub / Gitlab
 - Figma / Adobe Photoshop / Pixso
 - Webpack
+- Postman
 
 <br>
 <br>
