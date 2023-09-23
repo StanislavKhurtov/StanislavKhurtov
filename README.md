@@ -14,17 +14,13 @@
 
 <hr>
 
-> #### I have extensive skills in developing web applications using [React](https://react.dev/) and [TypeScript](https://www.typescriptlang.org/). I have a deep understanding of the core principles and concepts of React, such as components, state, component lifecycle, and state management. I'am also familiar with key libraries and tools widely used in the React ecosystem, such as [React Router](https://reactrouter.com/en/main), [Redux](https://redux.js.org/), and [Axios](https://axios-http.com/docs/intro).
+> #### I have extensive skills in developing web applications using React and TypeScript. I have a deep understanding of the core principles and concepts of React, such as components, state, component lifecycle, and state management. I'am also familiar with key libraries and tools widely used in the React ecosystem, such as React Router, Redux, and Axios.
 
-
-> #### My experience with React includes building scalable and reusable components, managing data using state and context, and interacting with external APIs. I also have experience working with [React Hooks](), which help simplify state management and improve component performance.
-
+> #### My experience with React includes building scalable and reusable components, managing data using state and context, and interacting with external APIs. I also have experience working with React Hooks, which help simplify state management and improve component performance.
 
 > #### I actively leverage TypeScript in my React projects to ensure type safety and enhance development. I am familiar with key TypeScript concepts, such as data types, interfaces, generics, and decorators. Using TypeScript allows me to catch errors during development, improve code autocompletion and documentation, and enhance codebase understanding for effective teamwork.
 
-
-> #### Additionally, I possess development skills in HTML5, CSS3, and Sass (SCSS). I prioritize semantic and accessible web pages, create responsive layouts using media queries, and follow the <u>BEM</u> methodology for styling organization. I am proficient in creating animations and utilizing modern CSS features, such as Grid Layout and Flexbox. Furthermore, I have experience working with design tools like Figma, Adobe Photoshop, and Pixso enabling me to create visually appealing user interfaces based on provided designs.
-
+> #### Additionally, I possess development skills in HTML5, CSS3, and Sass (SCSS). I prioritize semantic and accessible web pages, create responsive layouts using media queries, and follow the BEM methodology for styling organization. I am proficient in creating animations and utilizing modern CSS features, such as Grid Layout and Flexbox. Furthermore, I have experience working with design tools like Figma, Adobe Photoshop, and Pixso enabling me to create visually appealing user interfaces based on provided designs.
 
 > #### Overall, my skills in React and TypeScript enable me to develop modern, scalable, and maintainable web applications with enhanced reliability and performance. I continuously update my knowledge and adhere to best development practices to ensure high-quality work.
 
@@ -92,14 +88,13 @@
 
 <hr>
 
-
-
 ### [***Portfolio*** ](https://stanislavkhurtov.netlify.app/)
+
 <div align="right" width="100px">
     <div>This project is a responsive design and </div>
      <div>animation portfolio created to showcase skills,</div>
      <div>projects and achievements. It is designed using modern technologies</div>
-     <div>and approaches to provide an attractive and smooth user experience.</div>
+     <div>and approaches to provide an attractive and smooth user experience.</div>    
      </div>
 
 <br>
@@ -108,19 +103,49 @@
 
 <br>
 
-### [***Travel*** - website of tourist services](https://stanislavkhurtov.github.io/Travel-ver.2)
+### [***Travel***](https://stanislavkhurtov.github.io/Travel-ver.2)
+
+<div align="right" width="100px">
+<div>The Travel website is an attractive and</div>
+<div>modern resource for all travel enthusiasts.</div>
+<div>Responsive design, modern technology, eye-catching</div>
+<div>animations and a user-friendly experience make this site an ideal source</div>
+<div>of information and inspiration for anyone who</div>
+<div>dreams of new adventures and discoveries.</div>
+</div>
+
+<br>
 
 <img src="./src/img/travel.jpg"/>
 
 <br>
 
-### [***Porten*** - accessories sale website](https://stanislavkhurtov.github.io/Porten/home.html)
+### [***Porten***](https://stanislavkhurtov.github.io/Porten/home.html)
+
+<div align="right" width="100px">
+<div>The men's accessories website is a responsive resource.</div>
+<div>The combination of modern design elements, eye-catching photography</div>
+<div>and intuitive navigation creates an inviting and prestigious atmosphere. </div>
+<div>The technology stack, incorporates cutting edge tools and approaches. </div>
+<div>This allows for a responsive design that easily adapts to a variety of </div>
+<div>devices and screens.</div>
+</div>
+
+<br>
 
 <img src="./src/img/porten.jpg"/>
 
 <br>
 
-### [***Aperture*** - photo studio website](https://stanislavkhurtov.github.io/Aperture)
+### [***Aperture***](https://stanislavkhurtov.github.io/Aperture)
+
+<div align="right" width="100px">
+<div>The site is designed using modern technology and innovative </div>
+<div>approaches to provide an attractive and sleek user experience. The use </div>
+<div>of modern CSS and JavaScript technologies allows to add dynamism</div>
+<div>and impact to the site content, creating interactive elements that </div>
+<div>emphasize unique features.</div>
+</div>
 
 <img src="./src/img/aperture.png"/>
 
