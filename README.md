@@ -99,7 +99,8 @@
 
 <br>
 
-<img src="./src/img/portfolio.png"/>
+<img width="400px" heigth="100px" src="./src/img/portfolio.png"/>
+
 
 <br>
 
@@ -116,7 +117,7 @@
 
 <br>
 
-<img src="./src/img/travel.jpg"/>
+<img width="400px" heigth="100px" src="./src/img/travel.jpg"/>
 
 <br>
 
@@ -133,7 +134,7 @@
 
 <br>
 
-<img src="./src/img/porten.jpg"/>
+<img width="400px" heigth="100px" src="./src/img/porten.jpg"/>
 
 <br>
 
@@ -147,7 +148,7 @@
 <div>emphasize unique features.</div>
 </div>
 
-<img src="./src/img/aperture.png"/>
+<img width="400px" heigth="100px" src="./src/img/aperture.png"/>
 
 #
 
