@@ -99,7 +99,7 @@
 
 <br>
 
-<img width="400px" heigth="100px" src="./src/img/portfolio.png"/>
+<img width="400px" heigth="100px" src="./src/img/portfolio.webp"/>
 
 
 <br>
@@ -117,7 +117,7 @@
 
 <br>
 
-<img width="400px" heigth="100px" src="./src/img/travel.jpg"/>
+<img width="400px" heigth="100px" src="./src/img/travel.webp"/>
 
 <br>
 
@@ -134,7 +134,7 @@
 
 <br>
 
-<img width="400px" heigth="100px" src="./src/img/porten.jpg"/>
+<img width="400px" heigth="100px" src="./src/img/porten.webp"/>
 
 <br>
 
@@ -148,7 +148,7 @@
 <div>emphasize unique features.</div>
 </div>
 
-<img width="400px" heigth="100px" src="./src/img/aperture.png"/>
+<img width="400px" heigth="100px" src="./src/img/aperture.webp"/>
 
 #
 
@@ -159,10 +159,10 @@
 <br>
 
 <p float="left" align="center"  width="550" >
- <img width="400" src="./src/img/3y73280o-1.png"/>
-<img width="400" src="./src/img/sertificateFls.png"/>
- <img width="400" src="./src/img/jssertificate.png"/>
- <img width="400" src="./src/img/htmlsertificate.png"/>
+ <img width="400" src="./src/img/3y73280o-1.webp"/>
+<img width="400" src="./src/img/sertificateFls.webp"/>
+ <img width="400" src="./src/img/jssertificate.webp"/>
+ <img width="400" src="./src/img/htmlsertificate.webp"/>
 </p>
 
 #
