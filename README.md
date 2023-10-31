@@ -68,18 +68,16 @@
 <br>
 <br>
 
-- React / Redux / Redux Toolkit
 - JavaScript / TypeScript
-- Axios / Rest API / Swagger
-- HTML / CSS / BEM
-- SASS / SCSS
-- Formik / React Hook Form
+- React / Redux / Redux Toolkit
+- Axios / Rest API / Swagger / Postman
+- HTML / SCSS / BEM
+- React Hook Form / Formik
 - Material UI / Ant Design / Styled Components
 - TDD / Unit test / Jest / Storybook
 - Git / GitHub / Gitlab
 - Figma / Adobe Photoshop / Pixso
-- Webpack
-- Postman
+- Webpack / Vite
 
 <br>
 <br>
@@ -88,7 +86,24 @@
 
 <hr>
 
-### [***Portfolio*** ](https://stanislavkhurtov.netlify.app/)
+### [**Momentum**](https://momentum-project-case.netlify.app/)
+
+<div align="right" width="100px">
+    <div>The basic idea behind Momentum is to provide you with a personalized </div>
+     <div>start page that inspires you and helps you manage your time and tasks. </div>
+     <div>When you launch the app, you are greeted by a simple and elegant </div>
+     <div>interface with a unique background image showing an inspiring photo</div>   
+     <div>or nature picture.</div> 
+</div>
+
+<br>
+
+<img width="400px" heigth="100px" src="./src/img/momentum.png"/>
+
+<br>
+<br>
+
+### [**Portfolio**](https://stanislavkhurtov.netlify.app/)
 
 <div align="right" width="100px">
     <div>This project is a responsive design and </div>
@@ -101,10 +116,10 @@
 
 <img width="400px" heigth="100px" src="./src/img/portfolio.webp"/>
 
-
+<br>
 <br>
 
-### [***Travel***](https://stanislavkhurtov.github.io/Travel-ver.2)
+### [**Travel**](https://stanislavkhurtov.github.io/Travel-ver.2)
 
 <div align="right" width="100px">
 <div>The Travel website is an attractive and</div>
@@ -120,8 +135,9 @@
 <img width="400px" heigth="100px" src="./src/img/travel.webp"/>
 
 <br>
+<br>
 
-### [***Porten***](https://stanislavkhurtov.github.io/Porten/home.html)
+### [**Porten**](https://stanislavkhurtov.github.io/Porten/home.html)
 
 <div align="right" width="100px">
 <div>The men's accessories website is a responsive resource.</div>
@@ -137,8 +153,9 @@
 <img width="400px" heigth="100px" src="./src/img/porten.webp"/>
 
 <br>
+<br>
 
-### [***Aperture***](https://stanislavkhurtov.github.io/Aperture)
+### [**Aperture**](https://stanislavkhurtov.github.io/Aperture)
 
 <div align="right" width="100px">
 <div>The site is designed using modern technology and innovative </div>
