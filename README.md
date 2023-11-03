@@ -167,22 +167,6 @@
 
 <img width="400px" heigth="100px" src="./src/img/aperture.webp"/>
 
-#
-
-### ***Сertificate***
-
-<hr>
-
-<br>
-
-<p float="left" align="center"  width="550" >
- <img width="400" src="./src/img/3y73280o-1.webp"/>
-<img width="400" src="./src/img/sertificateFls.webp"/>
- <img width="400" src="./src/img/jssertificate.webp"/>
- <img width="400" src="./src/img/htmlsertificate.webp"/>
-</p>
-
-#
 
 ### ***Contact me***
 
