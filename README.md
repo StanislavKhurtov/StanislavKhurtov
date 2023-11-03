@@ -137,7 +137,7 @@
 <br>
 <br>
 
-### [**Porten**](https://stanislavkhurtov.github.io/Porten/home.html)
+### [**Porten**](https://stanislavkhurtov.github.io/Porten/)
 
 <div align="right" width="100px">
 <div>The men's accessories website is a responsive resource.</div>
