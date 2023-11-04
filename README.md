@@ -119,7 +119,7 @@
 <br>
 <br>
 
-### [**Travel**](https://stanislavkhurtov.github.io/travel3/)
+### [**Travel**](https://stanislavkhurtov.github.io/Travel-ver.III/)
 
 <div align="right" width="100px">
 <div>The Travel website is an attractive and</div>
