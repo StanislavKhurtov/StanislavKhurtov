@@ -2,7 +2,7 @@
     <img src="./src/img/asset.gif" />
 </div>
 
-<br>
+
 
 
 <div>Stanislav Khurtov</div>
