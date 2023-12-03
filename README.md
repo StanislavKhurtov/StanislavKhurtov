@@ -69,7 +69,7 @@
 <br>
 
 - JavaScript / TypeScript
-- React / Redux / Redux Toolkit
+- React / Redux / Redux Toolkit / RTK Query
 - Axios / Rest API / Swagger / Postman
 - HTML / SCSS / BEM
 - React Hook Form / Formik
