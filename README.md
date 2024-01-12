@@ -86,6 +86,25 @@
 
 <hr>
 
+### [**Flash Cards**](https://flashcards-project-kappa.vercel.app/)
+
+<div align="right" width="100px">
+    <div>Flash Cards project, an innovative card-based learning application.</div>
+     <div>Our development team has focused</div>
+     <div>on creating a powerful and easy to use tool that </div>
+     <div>will help you memorise information effectively</div>
+     <div>and improve your learning efficiency.</div>
+</div>
+
+<br>
+
+<img width="400px" heigth="100px" src="./src/img/image2.png"/>
+
+<br>
+<br>
+
+<hr>
+
 ### [**Task Assistant**](https://task-assistant-ver-ii.vercel.app/)
 
 <div align="right" width="100px">
