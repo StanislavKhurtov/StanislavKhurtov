@@ -86,14 +86,33 @@
 
 <hr>
 
+### [**Task Assistant**](https://task-assistant-ver-ii.vercel.app/)
+
+<div align="right" width="100px">
+    <div>Task Assistance is an intuitive and powerful application designed </div>
+     <div>specifically to make organising and completing tasks </div>
+     <div>easier. Whether you are a busy professional, a student or </div>
+     <div>just a planning enthusiast, our app will help you manage your</div>
+     <div>tasks efficiently and achieve your goals.</div>
+</div>
+
+<br>
+
+<img width="400px" heigth="100px" src="./src/img/image.png"/>
+
+<br>
+<br>
+
+<hr>
+
 ### [**Momentum**](https://momentum-project-case.netlify.app/)
 
 <div align="right" width="100px">
     <div>The basic idea behind Momentum is to provide you with a personalized </div>
      <div>start page that inspires you and helps you manage your time and tasks. </div>
      <div>When you launch the app, you are greeted by a simple and elegant </div>
-     <div>interface with a unique background image showing an inspiring photo</div>   
-     <div>or nature picture.</div> 
+     <div>interface with a unique background image showing an inspiring photo</div>
+     <div>or nature picture.</div>
 </div>
 
 <br>
@@ -109,7 +128,7 @@
     <div>This project is a responsive design and </div>
      <div>animation portfolio created to showcase skills,</div>
      <div>projects and achievements. It is designed using modern technologies</div>
-     <div>and approaches to provide an attractive and smooth user experience.</div>    
+     <div>and approaches to provide an attractive and smooth user experience.</div>
      </div>
 
 <br>
