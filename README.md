@@ -94,6 +94,9 @@
      <div>on creating a powerful and easy to use tool that </div>
      <div>will help you memorise information effectively</div>
      <div>and improve your learning efficiency.</div>
+
+[**Project repository**](https://github.com/StanislavKhurtov/flashcards-project)
+
 </div>
 
 <br>
@@ -113,6 +116,8 @@
      <div>easier. Whether you are a busy professional, a student or </div>
      <div>just a planning enthusiast, our app will help you manage your</div>
      <div>tasks efficiently and achieve your goals.</div>
+
+[**Project repository**](https://github.com/StanislavKhurtov/Task-Assistant-ver.II)
 </div>
 
 <br>
@@ -132,6 +137,8 @@
      <div>When you launch the app, you are greeted by a simple and elegant </div>
      <div>interface with a unique background image showing an inspiring photo</div>
      <div>or nature picture.</div>
+
+[**Project repository**](https://github.com/StanislavKhurtov/Momentum)
 </div>
 
 <br>
@@ -148,7 +155,9 @@
      <div>animation portfolio created to showcase skills,</div>
      <div>projects and achievements. It is designed using modern technologies</div>
      <div>and approaches to provide an attractive and smooth user experience.</div>
-     </div>
+
+[**Project repository**](https://github.com/StanislavKhurtov/Showcase)
+</div>
 
 <br>
 
@@ -166,6 +175,8 @@
 <div>animations and a user-friendly experience make this site an ideal source</div>
 <div>of information and inspiration for anyone who</div>
 <div>dreams of new adventures and discoveries.</div>
+
+[**Project repository**](https://github.com/StanislavKhurtov/Travel-ver.III)
 </div>
 
 <br>
@@ -184,6 +195,8 @@
 <div>The technology stack, incorporates cutting edge tools and approaches. </div>
 <div>This allows for a responsive design that easily adapts to a variety of </div>
 <div>devices and screens.</div>
+
+[**Project repository**](https://github.com/StanislavKhurtov/Porten)
 </div>
 
 <br>
@@ -201,6 +214,8 @@
 <div>of modern CSS and JavaScript technologies allows to add dynamism</div>
 <div>and impact to the site content, creating interactive elements that </div>
 <div>emphasize unique features.</div>
+
+[**Project repository**](https://github.com/StanislavKhurtov/Aperture)
 </div>
 
 <img width="400px" heigth="100px" src="./src/img/aperture.webp"/>
