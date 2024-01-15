@@ -5,7 +5,10 @@
 <br>
 
 <div>Stanislav Khurtov</div>
-<div>Frontend developer</div>
+<div>Front-end developer</div>
+
+### [**CV - ru**](https://disk.yandex.ru/i/pZt1ykQUFe4AVw)
+
 <hr>
 
 <br>
