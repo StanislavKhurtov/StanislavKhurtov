@@ -1,3 +1,4 @@
+#### [**Resume**](https://stanislavkhurtov.github.io/Resume/)
 <div align="center">
     <img src="./src/img/asset.gif" />
 </div>
@@ -6,8 +7,6 @@
 
 <div>Stanislav Khurtov</div>
 <div>Front-end developer</div>
-
-#### [**Resume**](https://stanislavkhurtov.github.io/Resume/)
 
 <hr>
 
