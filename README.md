@@ -8,6 +8,7 @@
 <div>Front-end developer</div>
 
 ### [**CV - ru**](https://disk.yandex.ru/i/pZt1ykQUFe4AVw)
+### [**CV - en**](https://stanislavkhurtov.github.io/Resume/)
 
 <hr>
 
