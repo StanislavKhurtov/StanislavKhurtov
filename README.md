@@ -1,3 +1,5 @@
+#### [**Resume**](https://stanislavkhurtov.github.io/Resume/)   <img align="left" alt="JS" width="20" src="https://img.icons8.com/?size=40&id=39049&format=png" />
+
 <div align="center">
     <img src="./src/img/asset.gif" />
 </div>
@@ -6,8 +8,6 @@
 
 <div>Stanislav Khurtov</div>
 <div>Front-end developer</div>
-
-#### [**Resume**](https://stanislavkhurtov.github.io/Resume/)
 
 <hr>
 
