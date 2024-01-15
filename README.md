@@ -7,7 +7,7 @@
 <div>Stanislav Khurtov</div>
 <div>Front-end developer</div>
 
-### [**CV - ru**](https://disk.yandex.ru/i/pZt1ykQUFe4AVw)
+### [**Resume**](https://stanislavkhurtov.github.io/Resume/)
 
 <hr>
 
