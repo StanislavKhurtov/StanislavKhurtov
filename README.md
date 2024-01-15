@@ -7,7 +7,7 @@
 <div>Stanislav Khurtov</div>
 <div>Front-end developer</div>
 
-### [**Resume**](https://stanislavkhurtov.github.io/Resume/)
+#### [**Resume**](https://stanislavkhurtov.github.io/Resume/)
 
 <hr>
 
