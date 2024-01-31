@@ -71,14 +71,17 @@
 <br>
 <br>
 
-- JavaScript / TypeScript
+- JavaScript / TypeScript / Node.js
 - React / Redux / Redux Toolkit / RTK Query
-- Axios / Rest API / Swagger / Postman
-- HTML / SCSS / BEM
 - React Hook Form / Formik
-- Material UI / Ant Design / Styled Components
-- TDD / Unit test / Jest / Storybook
-- Git / GitHub / Gitlab
+- HTML / CSS / SCSS / SASS 
+- Axios / RESTfull API
+- React Hook Form / Formik
+- Ui-framework ( MUI / Ant Design / Styled Components )
+- Animation-framework (GSAP / AOS / Anime.js )
+- QA ( Jest , Unit test)
+- Git / GitHub
+- Storybook
 - Figma / Adobe Photoshop / Pixso
 - Webpack / Vite
 
