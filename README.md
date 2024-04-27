@@ -15,6 +15,7 @@
 
 ### ***About me***
 
+<hr>
 
 
 > #### I have extensive skills in developing web applications using React and TypeScript. I have a deep understanding of the core principles and concepts of React, such as components, state, component lifecycle, and state management. I'am also familiar with key libraries and tools widely used in the React ecosystem, such as React Router, Redux, and Axios.
