@@ -64,6 +64,7 @@
 
 - JavaScript / TypeScript / Node.js
 - React / Redux / Redux Toolkit / RTK Query
+- TanStack Query / Zustand
 - React Hook Form / Formik
 - HTML / CSS / SCSS / SASS 
 - Axios / RESTfull API
