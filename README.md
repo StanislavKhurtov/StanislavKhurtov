@@ -1,4 +1,4 @@
-#### [**Resume**](https://stanislavkhurtov.github.io/Resume/)   <img align="left" alt="JS" width="20" src="https://img.icons8.com/?size=40&id=39049&format=png" />
+#### [**Resume**]([https://stanislavkhurtov.github.io/Resume/](https://disk.yandex.ru/i/_EcYkUyoMopokQ))   <img align="left" alt="JS" width="20" src="https://img.icons8.com/?size=40&id=39049&format=png" />
 
 <div align="center">
     <img src="./src/img/asset.gif" />
