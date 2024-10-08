@@ -20,14 +20,14 @@
 
 > #### Hello. I am a frontend developer with expertise in client-side technologies such as HTML, CSS, JavaScript, and ReactJS, Next.js. I possess strong communication, analytical, and development skills, and excel at working collaboratively as part of a team. I am adept at learning new technologies and am dedicated to achieving customer goals.
 
-#### Responsibilities:
+> #### Responsibilities:
 
-#### -Collaborating in planning and making architectural decisions.
-#### -Participating in requirements discussions.
-#### -Conducting code refactoring.
-#### -Implementing new features based on business specifications.
-#### -Resolving bugs.
-#### -Conducting developer interviews and providing mentorship.
+> #### -Collaborating in planning and making architectural decisions.
+> #### -Participating in requirements discussions.
+> #### -Conducting code refactoring.
+> #### -Implementing new features based on business specifications.
+> #### -Resolving bugs.
+> #### -Conducting developer interviews and providing mentorship.
 
 
 <br>
