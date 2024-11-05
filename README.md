@@ -80,143 +80,15 @@
 <br>
 <br>
 
-### ***Project Case***
 
-<hr>
+<h3 align="left">My Stats:</h3>
 
-### [**Flash Cards**](https://flashcards-project-kappa.vercel.app/)
 
-<div align="right" width="100px">
-    <div>Flash Cards project, an innovative card-based learning application.</div>
-     <div>Our development team has focused</div>
-     <div>on creating a powerful and easy to use tool that </div>
-     <div>will help you memorise information effectively</div>
-     <div>and improve your learning efficiency.</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=StanislavKhurtov&theme=2077) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StanislavKhurtov&theme=2077)
 
-[**Project repository**](https://github.com/StanislavKhurtov/flashcards-project)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStanislavKhurtov%2Fhit-counter&count_bg=%233D85C8&title_bg=%23213E57&icon=&icon_color=%23C27927&title=profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
 
-<br>
-
-<img width="400px" heigth="100px" src="./src/img/image2.png"/>
-
-<br>
-<br>
-
-<hr>
-
-### [**Task Assistant**](https://task-assistant-ver-ii.vercel.app/)
-
-<div align="right" width="100px">
-    <div>Task Assistance is an intuitive and powerful application designed </div>
-     <div>specifically to make organising and completing tasks </div>
-     <div>easier. Whether you are a busy professional, a student or </div>
-     <div>just a planning enthusiast, our app will help you manage your</div>
-     <div>tasks efficiently and achieve your goals.</div>
-
-[**Project repository**](https://github.com/StanislavKhurtov/Task-Assistant-ver.II)
-</div>
-
-<br>
-
-<img width="400px" heigth="100px" src="./src/img/image.png"/>
-
-<br>
-<br>
-
-<hr>
-
-### [**Momentum**](https://momentum-project-case.netlify.app/)
-
-<div align="right" width="100px">
-    <div>The basic idea behind Momentum is to provide you with a personalized </div>
-     <div>start page that inspires you and helps you manage your time and tasks. </div>
-     <div>When you launch the app, you are greeted by a simple and elegant </div>
-     <div>interface with a unique background image showing an inspiring photo</div>
-     <div>or nature picture.</div>
-
-[**Project repository**](https://github.com/StanislavKhurtov/Momentum)
-</div>
-
-<br>
-
-<img width="400px" heigth="100px" src="./src/img/momentum.png"/>
-
-<br>
-<br>
-
-### [**Portfolio**](https://stanislavkhurtov.netlify.app/)
-
-<div align="right" width="100px">
-    <div>This project is a responsive design and </div>
-     <div>animation portfolio created to showcase skills,</div>
-     <div>projects and achievements. It is designed using modern technologies</div>
-     <div>and approaches to provide an attractive and smooth user experience.</div>
-
-[**Project repository**](https://github.com/StanislavKhurtov/Showcase)
-</div>
-
-<br>
-
-<img width="400px" heigth="100px" src="./src/img/portfolio.webp"/>
-
-<br>
-<br>
-
-### [**Travel**](https://stanislavkhurtov.github.io/Travel-ver.III/)
-
-<div align="right" width="100px">
-<div>The Travel website is an attractive and</div>
-<div>modern resource for all travel enthusiasts.</div>
-<div>Responsive design, modern technology, eye-catching</div>
-<div>animations and a user-friendly experience make this site an ideal source</div>
-<div>of information and inspiration for anyone who</div>
-<div>dreams of new adventures and discoveries.</div>
-
-[**Project repository**](https://github.com/StanislavKhurtov/Travel-ver.III)
-</div>
-
-<br>
-
-<img width="400px" heigth="100px" src="./src/img/travel.webp"/>
-
-<br>
-<br>
-
-### [**Porten**](https://stanislavkhurtov.github.io/Porten/)
-
-<div align="right" width="100px">
-<div>The men's accessories website is a responsive resource.</div>
-<div>The combination of modern design elements, eye-catching photography</div>
-<div>and intuitive navigation creates an inviting and prestigious atmosphere. </div>
-<div>The technology stack, incorporates cutting edge tools and approaches. </div>
-<div>This allows for a responsive design that easily adapts to a variety of </div>
-<div>devices and screens.</div>
-
-[**Project repository**](https://github.com/StanislavKhurtov/Porten)
-</div>
-
-<br>
-
-<img width="400px" heigth="100px" src="./src/img/porten.webp"/>
-
-<br>
-<br>
-
-### [**Aperture**](https://stanislavkhurtov.github.io/Aperture)
-
-<div align="right" width="100px">
-<div>The site is designed using modern technology and innovative </div>
-<div>approaches to provide an attractive and sleek user experience. The use </div>
-<div>of modern CSS and JavaScript technologies allows to add dynamism</div>
-<div>and impact to the site content, creating interactive elements that </div>
-<div>emphasize unique features.</div>
-
-[**Project repository**](https://github.com/StanislavKhurtov/Aperture)
-</div>
-
-<img width="400px" heigth="100px" src="./src/img/aperture.webp"/>
 
 
 ### ***Contact me***
@@ -235,12 +107,3 @@
 
 <img align="left" alt="JS" width="20" src="https://cdn-icons-png.flaticon.com/128/552/552486.png" /><a href="mailto:skhurtov@yandex.ru">
 ***Say Hello***</a>
-
-<h3 align="left">My Stats:</h3>
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=StanislavKhurtov&theme=2077) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StanislavKhurtov&theme=2077)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStanislavKhurtov%2Fhit-counter&count_bg=%233D85C8&title_bg=%23213E57&icon=&icon_color=%23C27927&title=profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
