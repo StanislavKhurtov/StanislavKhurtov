@@ -5,7 +5,6 @@
 </div>
 
 
-
 <div>Stanislav Khurtov</div>
 <div>Front-end developer</div>
 
