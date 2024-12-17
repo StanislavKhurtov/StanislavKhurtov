@@ -4,7 +4,6 @@
     <img src="./src/img/asset.gif" />
 </div>
 
-
 <div>Stanislav Khurtov</div>
 <div>Front-end developer</div>
 
