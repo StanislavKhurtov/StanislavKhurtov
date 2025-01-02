@@ -8,6 +8,7 @@
 <div>Front-end developer</div>
 
 <hr>
+
 <br>
 
 ### ***About me***
